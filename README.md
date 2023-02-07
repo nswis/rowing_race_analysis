@@ -1,4 +1,6 @@
 # Rowing_Race_Analysis
 
-## 2023 Small Boat Regatta
-<a href="2023.01.28_M1X_AlexNichol_SmallBoatRegatta_SIRC_Final_Senior.html" target="_blank">Alex Nichol, Final</a> 
+# HTML Report File Distribution repository
+
+# copy perma link of the file to <https://htmlpreview.github.io/> to create an online report location
+# copy the link from the online report and send to coaches.
